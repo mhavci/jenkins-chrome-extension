@@ -14,6 +14,15 @@
  - Hot reloading React/Redux (Using [Webpack](https://github.com/webpack/webpack) and [React Transform](https://github.com/gaearon/react-transform))
  - Write code with ES2015+ syntax (Using [Babel](https://github.com/babel/babel))
  - E2E tests of Window & Popup & Inject pages (Using [Chrome Driver](https://www.npmjs.com/package/chromedriver), [Selenium Webdriver](https://www.npmjs.com/package/selenium-webdriver)) -->
+#### Main
+
+Fork https://github.com/zalmoxisus/remote-redux-devtools
+
+All Packages Update
+
+Babel 7
+React 16
+Webpack 4
 
 #### Popup
 
