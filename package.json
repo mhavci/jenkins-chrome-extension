@@ -1,7 +1,7 @@
 {
   "name": "jenkins-chrome-extension",
   "version": "1.0.0",
-  "description": "jenkins Chrome Extension For React&Redux",
+  "description": "Jenkins Chrome Extension For React&Redux",
   "scripts": {
     "dev": "node scripts/dev",
     "build": "node scripts/build",
