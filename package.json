@@ -70,7 +70,7 @@
     "remotedev-server": "^0.3.1",
     "rimraf": "^2.4.3",
     "selenium-webdriver": "^4.0.0-alpha.1",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "sinon": "^7.2.4",
     "style-loader": "^0.23.1",
     "webpack": "^4.29.5",
